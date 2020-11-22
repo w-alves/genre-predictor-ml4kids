@@ -30,7 +30,7 @@ To use this application you must have [Python](https://www.python.org/downloads/
    >
    > Language: Portuguese
 
-6. Go to "Train model", create three labels: **hip_hop**, **sertanejo **and **funk**.
+6. Go to "Train model", create three labels: **hip_hop**, **sertanejo** and **funk**.
 
 7. Return to project page and go to "Make" and copy your API_KEY.![](https://i.imgur.com/KfzcQzQ.png)
 
