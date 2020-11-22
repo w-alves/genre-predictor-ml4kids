@@ -11,7 +11,7 @@ To use this application you must have [Python](https://www.python.org/downloads/
 1. Clone this repository
 
    ```
-   $ git clone https://github.com/lucasleonardobs/genre-predictor-ml4kids
+   $ git clone https://github.com/w-alves/genre-predictor-ml4kids
    ```
 
 2. Open the prompt at the project directory.
