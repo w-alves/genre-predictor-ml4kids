@@ -84,7 +84,7 @@ For this multi-class classification problem, a simple and efficient way to obser
 
 ![](https://i.imgur.com/fb8u1bj.png)
 
-Furthermore, it is also important that we look at the precision and recall metrics. Given the above, we can say that the model has an excellent performance given the limited amount of data used during training, since we have achieved overall good results in both precision and recall.
+Furthermore, it is also important that we look at the precision and recall metrics. 
 
 |              | precision          | recall             | f1-score           | support |
 | ------------ | ------------------ | ------------------ | ------------------ | ------- |
@@ -92,6 +92,8 @@ Furthermore, it is also important that we look at the precision and recall metri
 | funk         | 0.7906976744186046 | 0.8292682926829268 | 0.8095238095238095 | 41.0    |
 | sertanejo    | 0.8085106382978723 | 0.9047619047619048 | 0.853932584269663  | 42.0    |
 | weighted avg | 0.8173116104432866 | 0.8145161290322581 | 0.8125992854553927 | 124.0   |
+
+Given the above, we can say that the model has an excellent performance given the limited amount of data used during training, since we have achieved overall good results in both precision and recall.
 
 An important observation to make is that, in the interface created for the user, when a prediction is generated with less than 65% confidence, the result is not informed to the user, indicating an uncertainty of the model.
 
